@@ -17,7 +17,7 @@ Check out the functionality of the game in this demo video:
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshots/IMG_20240718_081223.jpg)
 
 ## Getting Started
 
