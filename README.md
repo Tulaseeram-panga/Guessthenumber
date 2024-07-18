@@ -13,7 +13,7 @@ This is a simple "Guess the Number" game developed using Java Swing. The game ge
 
 ## Demo
 
-Check out the functionality of the game in this demo video:![watch here](https://youtu.be/oIQ_EkJ0vhY)
+Check out the functionality of the game in this demo video:![watch here](https://www.youtube.com/watch?v=YOUR_oIQ_EkJ0vhY)(https://youtu.be/oIQ_EkJ0vhY)
 
 ## Screenshot
 
