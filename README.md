@@ -56,5 +56,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- GitHub: [yourusername](https://github.com/Tulaseeram-panga)
-- Twitter: [@yourtwitterhandle](https://twitter.com/tulaseerampanga)
+- GitHub: [Tulaseeram-panga](https://github.com/Tulaseeram-panga)
+- Twitter: [@tulaseerampanga](https://twitter.com/tulaseerampanga)
